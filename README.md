@@ -2,7 +2,7 @@
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img src="./Assets/Interface_Formulario_Cadastro.jpg" alt="Imagem do Formulário de Cadastro">
 
 > Este formulário fará parte de um projeto para controlar uma loja virtual. Além deste, teremos um para cadastrar os produtos e outro para os pedidos. Tudo com o objetivo
 > de facilitar o trabalho dos usuários
@@ -29,7 +29,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Leonardo Russo no GitHub"/><br>
+        <img src="./Assets/Leonardo.jpg" width="100px;" alt="Foto do Leonardo Russo no GitHub"/><br>
         <sub>
           <b>Leonardo Russo</b>
         </sub>
