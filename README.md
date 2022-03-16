@@ -3,7 +3,7 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 <div align="center">
-    <img src="./Assets/Interface_Formulario_Cadastro.jpg" width="400px" height="300px" alt="Imagem do Formulário de Cadastro">
+    <img src="./Assets/Interface_Formulario_Cadastro.jpg" width="900px" height=600px" alt="Imagem do Formulário de Cadastro">
 </div>
 
 <br>
